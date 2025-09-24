@@ -1,0 +1,10 @@
+Para asegurar la máxima fidelidad y el uso correcto de los componentes JEDS, se utiliza una estructura de prompt que define el rol, el contexto y la lista detallada de elementos (similar a los *frameworks* TREF o GRADE).
+
+**Rol:** Asume el rol de un diseñador UX/UI experto, creando un diseño de alta fidelidad basado en el **Javerage Electoral Design System (JEDS)**.
+
+**Tarea:** Generar la interfaz para el **Panel Principal / Dashboard del Día** en la aplicación móvil.
+
+**Contexto y Restricciones:**
+Fidelidad y Tema: Generar un diseño de Alta Fidelidad bajo el Tema Oscuro del JEDS.
+Métricas: Los elementos interactivos deben cumplir con el mínimo de 48x48dp para accesibilidad.
+Componentes: Usar componentes M3 (Material 3) y aplicar los tokens de color, forma y tipografía del JEDS.

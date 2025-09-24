@@ -1,0 +1,11 @@
+Utilizaremos la estructura de prompt recomendada (similar a ASPECCT o CTF) para garantizar que la herramienta de IA (Stitch, Figma Make, UX Pilot) genere un resultado de alta fidelidad [Query]:
+
+Rol: Actúa como un diseñador UX/UI Senior, especializado en aplicaciones *mobile-first* con el **Javerage Electoral Design System (JEDS)**.
+
+Tarea: Generar el prototipo de alta fidelidad para la pantalla de **Inicio de Sesión y Autenticación** [Query].
+
+**Contexto y Restricciones:**
+Tema: Usar el Tema Oscuro (dark) del JEDS.
+Tokens: Referenciar todos los elementos con los tokens de JEDS (ej., shape.corner.full, color.dark.primaryContainer).
+Accesibilidad: Asegurar que todos los elementos táctiles, incluido el Toggle Switch, cumplan con el mínimo de 48x48dp.
+Espaciado: Utilizar el token de espaciado spacing.m (16dp) para la separación vertical de los bloques principales.

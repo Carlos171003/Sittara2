@@ -1,0 +1,10 @@
+Bloque de Contenido	Componente Principal y Tokens de JEDS	Función y Requisitos de Diseño
+1. Contenedor Raíz y Fondo	Contenedor de página completa.	Usar el token de color color.dark.background.
+2. Logo de Marca (Fidelización)	Componente de imagen o gráfico.	Colocar el logotipo de Javerage Electoral centrado en la parte superior.
+3. Título Principal	Componente de texto.	Contenido: "Bienvenido" o "Iniciar Sesión". Usar tipografía typography.headline.large.
+4. Campo de Entrada (Usuario/ID)	Componente de campo de texto delineado(textField.outlined).	Etiqueta: "Correo Electrónico o ID de Voluntario" [Query, 493].
+5. Campo de Entrada (Contraseña)	Componente de campo de texto delineado(textField.outlined).	Etiqueta: "Contraseña" [Query, 493]. Incluir un icono de alternancia para visibilidad.
+6. Opción "Recordarme"	Componente de interacción Toggle Switch [Query] con etiqueta de texto.	Etiqueta: "Recordarme". Debe estar flotando inmediatamente debajo del campo de contraseña, alineado al borde del formulario[Query].
+7. Mensaje de Error (Bloque Opcional)	Contenedor de texto para retroalimentación de seguridad [Query].	Usar estilo de label.medium. Reservar espacio para mensajes como "Credenciales incorrectas" [Query].
+8. Botón de Acción Principal (CTA)	Componente de botón relleno (button.filled).	Texto: "Iniciar Sesión" [Query]. Tokens: Usar color.dark.primaryContainerpara fondo y color.dark.onPrimaryContainer para texto. Forma:shape.corner.full (completamente redondeada).
+9. Enlace de Soporte	Componente de texto interactivo.	Contenido: "¿Olvidaste tu contraseña?" [Query]. Usar color color.dark.tertiary y tipografía typography.label.large.
